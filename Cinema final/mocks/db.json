@@ -1,0 +1,209 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "nome": "Titanic",
+      "genero": "Romance/Drama",
+      "ano": "1998"
+    },
+    {
+      "id": 2,
+      "nome": "Jurassic Park",
+      "genero": "Ficção científica/Ação",
+      "ano": "1993"
+    },
+    {
+      "id": 3,
+      "nome": "O estranho mundo de Jack",
+      "genero": "Infantil/Animação",
+      "ano": "1993"
+    },
+    {
+      "id": 4,
+      "nome": "Independence Day",
+      "genero": "Ação",
+      "ano": "1996"
+    },
+    {
+      "id": 5,
+      "filme": "One Piece Red",
+      "genero": "Aventura/Ação",
+      "ano": "2022"
+    },
+    {
+      "id": 6,
+      "filme": "Wakanda Forever",
+      "genero": "Aventura/Ação",
+      "ano": "2022"
+    },
+    {
+      "id": 7,
+      "filme": "Adão Negro",
+      "genero": "Aventura/Ação",
+      "ano": "2022"
+    },
+    {
+      "id": 8,
+      "filme": "A luz do demônio",
+      "genero": "Terror",
+      "ano": "2022"
+    }
+  ],
+  "lanche": [
+    {
+      "id": 1,
+      "nome": "Pipoca P",
+      "preco": "R$:20,00",
+      "tamanho": "pequena"
+    },
+    {
+      "id": 2,
+      "nome": "Pipoca M",
+      "preco": "R$:25,00",
+      "tamanho": "medio"
+    },
+    {
+      "id": 3,
+      "nome": "Pipoca G",
+      "preco": "R$:30,00",
+      "tamanho": "grande"
+    }
+  ],
+  "bebidas": [
+    {
+      "id": 1,
+      "name": "Refrigerante P",
+      "preco": "R$:6,00",
+      "tamanho": "pequena"
+    },
+    {
+      "id": 2,
+      "name": "Refrigerante M",
+      "preco": "R$:8,00",
+      "tamanho": "medio"
+    },
+    {
+      "id": 3,
+      "name": "Refrigerante G",
+      "preco": "R$:10,00",
+      "tamanho": "grande"
+    }
+  ],
+  "ingresso": [
+    {
+      "id": 1,
+      "inteira": "20",
+      "cumpom promocional": "não"
+    },
+    {
+      "id": 2,
+      "meia": "10",
+      "cumpom promocional": "não"
+    }
+  ],
+  "salas": [
+    {
+      "id": 1,
+      "sala": "10",
+      "números de cadeiras": "50",
+      "tipo": "2D"
+    },
+    {
+      "id": 2,
+      "sala": "20",
+      "números de cadeiras": "50",
+      "tipo": "3D"
+    },
+    {
+      "id": 3,
+      "sala": "30",
+      "números de cadeiras": "50",
+      "tipo": "2D"
+    },
+    {
+      "id": 4,
+      "sala": "40",
+      "números de cadeiras": "50",
+      "tipo": "3D"
+    },
+    {
+      "id": 5,
+      "sala": "50",
+      "números de cadeiras": "50",
+      "tipo": "2D"
+    }
+  ],
+  "clientes": [
+    {
+      "nome": [],
+      "id": 1
+    },
+    {
+      "nome": "",
+      "id": 2
+    },
+    {
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "id": 3
+    },
+    {
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "id": 4
+    },
+    {
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "id": 5
+    },
+    {
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "id": 8
+    },
+    {
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "id": 9
+    },
+    {
+      "nome": "Chris",
+      "email": "",
+      "senha": "",
+      "id": 10
+    },
+    {
+      "nome": "Vincius",
+      "email": "",
+      "senha": "",
+      "id": 11
+    },
+    {
+      "nome": "Roberto",
+      "email": "roberto@gmail.com",
+      "senha": "123456",
+      "id": 12
+    },
+    {
+      "nome": "Fabianno",
+      "email": "fabianno@gmail.com",
+      "senha": "123",
+      "id": 13
+    }
+  ]
+}
